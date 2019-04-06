@@ -30,7 +30,7 @@ public final class EncryptData
 		try {
 			Map<String, String> encryptedData = EncryptData.encryptSoPin(encrypData);
 			
-			System.out.println(encrypData);
+			System.out.println(encryptedData);
 			
 			
 		} catch (Exception e) {
